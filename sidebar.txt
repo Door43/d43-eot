@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eot:home|Door43 (eot)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eot|d43-eot repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eot/archive/master.zip|d43-eot.zip]]
+
+**Recent Changes**
+{{changes>ns = eot}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eot|Ethnologue data]]
+
